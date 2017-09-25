@@ -38,7 +38,7 @@ var name = 'Tyler';
 
 //What is the difference between arguments and parameters?
 
-  "Arguments are passed into functions, parameters are local variables specified in a function declaration";
+  Arguments are passed into functions, parameters are local variables specified in a function declaration
 
 
 //////////////////PROBLEM 5////////////////////
@@ -48,7 +48,8 @@ var name = 'Tyler';
 //What are all the falsy values in JavaScript and how do you check if something is falsy?
 
 
-  //Answer Here
+  falsy values: 0, undefined, null, NaN, "", false
+  you could evaluate it in an if statement
 
 
 
