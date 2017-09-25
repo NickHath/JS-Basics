@@ -38,7 +38,7 @@ var name = 'Tyler';
 
 //What is the difference between arguments and parameters?
 
-  //Answer Here
+  "Arguments are passed into functions, parameters are local variables specified in a function declaration";
 
 
 //////////////////PROBLEM 5////////////////////
