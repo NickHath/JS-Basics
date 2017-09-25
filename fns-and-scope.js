@@ -84,7 +84,7 @@ var name = 'Tyler';
 
 //Now save the result of invoking outerFn into a variable called innerFn.
 
-  var innerFn = outerFn;
+  var innerFn = outerFn();
 
 //Now invoke innerFn.
 
